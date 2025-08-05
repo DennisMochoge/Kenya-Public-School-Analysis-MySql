@@ -132,7 +132,8 @@ CALCULATE(
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/DennisMochoge/Kenya-Public-School-Analysis-SQL/blob/main/Dashboard.png)
+[![Dashboard Overview](https://github.com/DennisMochoge/Kenya-Public-School-Analysis-MySql/blob/main/Dashboard.png)](https://github.com/DennisMochoge/Kenya-Public-School-Analysis-MySql/blob/main/Dashboard.png)
+
 
 ---
 
